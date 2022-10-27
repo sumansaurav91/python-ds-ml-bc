@@ -1,1 +1,1 @@
-# python-ds-ml-bc
+# Python Data Science Machine Learning Bootcamp
